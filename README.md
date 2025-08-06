@@ -10,9 +10,9 @@ with your main locations, physical dice, physical effect rings, etc... and Parry
 
 #### Notice:
 
--
+---
 Parry was created for and optimized for Dungeons & Dragons 5th Edition 2014 Edition.
--
+---
 
 Now that was probably a pretty bad overall explanation. Here are all the features for you:
 
